@@ -1,0 +1,12 @@
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\portable\MemMang\heap_2.c
+.\output\heap_2.o: C:\Keil\ARM\RV31\INC\stdlib.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\FreeRTOS.h
+.\output\heap_2.o: C:\Keil\ARM\RV31\INC\stddef.h
+.\output\heap_2.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\projdefs.h
+.\output\heap_2.o: ..\inc\FreeRTOSConfig.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\portable.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\portable\keil\ARM_CM3\portmacro.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\mpu_wrappers.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\task.h
+.\output\heap_2.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\include\list.h
